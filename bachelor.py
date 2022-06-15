@@ -1,4 +1,5 @@
 from persona import Profesor
+from excepcionesUniversidad import *
 
 class Bachelor():
     def __init__(self, nombre):
