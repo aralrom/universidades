@@ -1,5 +1,4 @@
 # Implementar excepciones
-from excepcionesUniversidad import *
 
 
 class ExcepcionesUniversidad(Exception):
